@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "rewrite-to-recipkg"
-version = "0.1.1"
+version = "0.1.2"
 kind = "skill"
 description = "Observe existing software, extract its reconstruction contract, establish a Recipkg recipe repository, and rewrite the package from the complete recipe with real acceptance evidence. Use for source-to-recipe rewrites and rebuilding software under the Recipkg format."
 entry = "SKILL.md"
